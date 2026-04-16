@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abonga-investment-/static/css/main.25751905.css",
-    "main.js": "/abonga-investment-/static/js/main.731b1d60.js",
-    "static/js/453.f1264ca4.chunk.js": "/abonga-investment-/static/js/453.f1264ca4.chunk.js",
+    "main.js": "/abonga-investment-/static/js/main.7aedae89.js",
+    "static/js/453.69e0d639.chunk.js": "/abonga-investment-/static/js/453.69e0d639.chunk.js",
     "index.html": "/abonga-investment-/index.html",
     "main.25751905.css.map": "/abonga-investment-/static/css/main.25751905.css.map",
-    "main.731b1d60.js.map": "/abonga-investment-/static/js/main.731b1d60.js.map",
-    "453.f1264ca4.chunk.js.map": "/abonga-investment-/static/js/453.f1264ca4.chunk.js.map"
+    "main.7aedae89.js.map": "/abonga-investment-/static/js/main.7aedae89.js.map",
+    "453.69e0d639.chunk.js.map": "/abonga-investment-/static/js/453.69e0d639.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25751905.css",
-    "static/js/main.731b1d60.js"
+    "static/js/main.7aedae89.js"
   ]
 }
